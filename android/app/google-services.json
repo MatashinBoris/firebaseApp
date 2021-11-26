@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455673365000",
+    "project_id": "borisfireapp",
+    "storage_bucket": "borisfireapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455673365000:android:dc4ce18149f6de5fd007bd",
+        "android_client_info": {
+          "package_name": "com.example.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455673365000-8j25ovpu1as39630o3u96to87jmi8odj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAevDevjXteeOEykxH4smMScH33LPMbyTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455673365000-8j25ovpu1as39630o3u96to87jmi8odj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
